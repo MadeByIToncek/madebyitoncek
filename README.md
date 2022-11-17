@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/MadeByIToncek/stats/master/generated/overview.svg"/><img src="https://raw.githubusercontent.com/MadeByIToncek/stats/master/generated/languages.svg"/>
+<img src="https://raw.githubusercontent.com/MadeByIToncek/MadeByIToncek/main/github-metrics.svg"/>
