@@ -1,1 +1,7 @@
-<img src="https://raw.githubusercontent.com/MadeByIToncek/madebyitoncek/main/github-metrics.svg"/>
+![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.achievements.svg)
+![Metrics](/metrics.plugin.code.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+![Metrics](/metrics.plugin.languages.details.svg)
+![Metrics](/metrics.plugin.pagespeed.detailed.svg)
+![Metrics](/metrics.plugin.stargazers.chartist.svg)

@@ -100,22 +100,6 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 2
           plugin_lines_history_limit: 1
-  licenses:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Licenses with open-source ratio graphs
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.licenses.ratio.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_legal: yes
-          plugin_licenses_ratio: yes
   achivements:
     runs-on: ubuntu-latest
     permissions:
