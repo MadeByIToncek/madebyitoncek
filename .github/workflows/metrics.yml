@@ -55,7 +55,7 @@ jobs:
       - name: Using chartist charts
         uses: lowlighter/metrics@latest
         with:
-        filename: metrics.plugin.stargazers.chartist.svg
+          filename: metrics.plugin.stargazers.chartist.svg
           token: ${{ secrets.TOKEN }}
           base: ""
           plugin_stargazers: yes
