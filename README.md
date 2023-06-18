@@ -1,16 +1,1 @@
-___
-**IToncek**
-![Metrics](/github-metrics.svg)
-___
-![Metrics](/metrics.plugin.achievements.svg)
-___
-![Metrics](/metrics.plugin.code.svg)
-___
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-___
-![Metrics](/metrics.plugin.languages.details.svg)
-___
-![Metrics](/metrics.plugin.pagespeed.detailed.svg)
-___
-![Metrics](/metrics.plugin.stargazers.chartist.svg)
-___
+![Metrics](https://metrics.lecoq.io/MadeByIToncek?template=terminal&lines=1&languages=1&pagespeed=1&followup=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&gists=false&pagespeed=false&pagespeed.url=itoncek.space&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Europe%2FBudapest&config.octicon=true)
