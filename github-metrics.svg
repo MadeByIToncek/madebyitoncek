@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 2 Jul 2023, 00:17:30
+Last generated: 2 Jul 2023, 01:18:31
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=4y, uid=4277, gid=7
   contributed to 36 repositories <b><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span></b>
@@ -70,7 +70,7 @@ dr-x  <b>    9</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -258k +462k @@</span>
+<span class="diff">@@ -255k +461k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 0 gists
 -r--  <b>    0</b>  stargazers
@@ -91,16 +91,16 @@ dr-x         LICENSE
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 2.502s (ok +)
-<b>&gt; Speed Index</b>: 0.597s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.032s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.5s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.5s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 5.566763292217557 (bad)
+<b>&gt; Time to interactive</b>: 2.554s (ok +)
+<b>&gt; Speed Index</b>: 0.637s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.021s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.234s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.234s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 4.707920230277559 (bad)
 </div>
 
 
-<footer>Connection reset by 29.141.217.210</footer></pre>
+<footer>Connection reset by 70.132.178.22</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
