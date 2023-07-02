@@ -27,7 +27,7 @@ jobs:
           # Options
           user: MadeByIToncek
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_octicon: yes
           config_timezone: Europe/Budapest
           plugin_followup: yes
