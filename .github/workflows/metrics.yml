@@ -23,7 +23,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.TOKEN }}
-
+          config_padding: 0, 30%
           # Options
           user: MadeByIToncek
           template: terminal
