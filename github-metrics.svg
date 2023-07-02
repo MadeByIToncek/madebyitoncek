@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 2 Jul 2023, 06:22:30
+Last generated: 2 Jul 2023, 07:18:14
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=4y, uid=4277, gid=7
   contributed to 36 repositories <b><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span></b>
@@ -70,7 +70,7 @@ dr-x  <b>    9</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -267k +446k @@</span>
+<span class="diff">@@ -169k +307k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 0 gists
 -r--  <b>    0</b>  stargazers
@@ -87,20 +87,20 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># curl -vI https://itoncek.space</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://itoncek.space
-<b>X-Performance</b>: 75%
+<b>X-Performance</b>: 74%
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 2.133s (ok +)
-<b>&gt; Speed Index</b>: 0.532s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.049s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.239s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.239s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 5.717930775909876 (bad)
+<b>&gt; Time to interactive</b>: 2.225s (ok +)
+<b>&gt; Speed Index</b>: 0.695s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.03s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.235s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.235s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 4.829381070870911 (bad)
 </div>
 
 
-<footer>Connection reset by 31.106.180.217</footer></pre>
+<footer>Connection reset by 177.24.190.201</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
