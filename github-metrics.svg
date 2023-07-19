@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 19 Jul 2023, 14:35:04
+Last generated: 19 Jul 2023, 15:22:10
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=4y, uid=4277, gid=7
   contributed to 39 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -75,16 +75,16 @@ Last generated: 19 Jul 2023, 14:35:04
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 2.262s (ok +)
-<b>&gt; Speed Index</b>: 0.631s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.055s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.604s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.604s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 6.147269827401281 (bad)
+<b>&gt; Time to interactive</b>: 2.977s (ok +)
+<b>&gt; Speed Index</b>: 0.905s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.136s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.905s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.979s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 7.272994408107872 (bad)
 </div>
 
 
-<footer>Connection reset by 233.34.12.6</footer></pre>
+<footer>Connection reset by 35.127.131.147</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
