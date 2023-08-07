@@ -37,14 +37,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 7 Aug 2023, 10:21:55
+Last generated: 7 Aug 2023, 11:17:12
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=4y, uid=4277, gid=7
   contributed to 39 repositories <b><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>3</b> users
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1492</b> commits
+  <b> 1466</b> commits
   <b>    3</b> pull requests reviewed
   <b>   30</b> pull requests opened
   <b>    6</b> issues opened
@@ -71,20 +71,20 @@ Last generated: 7 Aug 2023, 10:21:55
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># curl -vI https://itoncek.space</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://itoncek.space
-<b>X-Performance</b>: 75%
+<b>X-Performance</b>: 74%
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 2.508s (ok +)
-<b>&gt; Speed Index</b>: 0.734s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.093s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.632s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.632s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 5.573343473462629 (bad)
+<b>&gt; Time to interactive</b>: 2.39s (ok +)
+<b>&gt; Speed Index</b>: 0.689s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.202s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.509s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.557s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 6.7926095682660605 (bad)
 </div>
 
 
-<footer>Connection reset by 217.15.201.25</footer></pre>
+<footer>Connection reset by 71.146.119.236</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
