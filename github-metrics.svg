@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 23 Aug 2023, 09:15:44
+Last generated: 23 Aug 2023, 10:21:21
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=4y, uid=4277, gid=7
   contributed to 37 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -71,20 +71,20 @@ Last generated: 23 Aug 2023, 09:15:44
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># curl -vI https://itoncek.space</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://itoncek.space
-<b>X-Performance</b>: 73%
+<b>X-Performance</b>: 75%
 <b>X-Accessibility</b>: 92%
 <b>X-Best-Practices</b>: 95%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 2.473s (ok +)
-<b>&gt; Speed Index</b>: 0.86s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.068s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.335s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.335s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 4.305689369910689 (bad)
+<b>&gt; Time to interactive</b>: 2.934s (ok +)
+<b>&gt; Speed Index</b>: 0.802s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.292s (ok)
+<b>&gt; First Contentful Paint</b>: 0.663s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.663s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 6.606312672197416 (bad)
 </div>
 
 
-<footer>Connection reset by 183.170.106.89</footer></pre>
+<footer>Connection reset by 143.22.159.146</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
