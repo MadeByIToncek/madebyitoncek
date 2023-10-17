@@ -37,14 +37,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 16 Oct 2023, 03:14:18
+Last generated: 17 Oct 2023, 03:13:24
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=4y, uid=4277, gid=9
-  contributed to 42 repositories <b><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 42 repositories <b><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>3</b> users
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1547</b> commits
+  <b> 1549</b> commits
   <b>    3</b> pull requests reviewed
   <b>   19</b> pull requests opened
   <b>    9</b> issues opened
@@ -63,7 +63,7 @@ Last generated: 16 Oct 2023, 03:14:18
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [#########           ] 41.55%
 <b>HTML        </b> [#####               ] 20.64%
 <b>CSS         </b> [####                ] 15.04%
-<b>JAVA        </b> [##                  ] 7.92 %
+<b>JAVA        </b> [##                  ] 7.93 %
 <b>PYTHON      </b> [##                  ] 7.23 %
 <b>MCFUNCTION  </b> [##                  ] 5.01 %
 <b>SHADERLAB   </b> [#                   ] 2.22 %
@@ -71,20 +71,20 @@ Last generated: 16 Oct 2023, 03:14:18
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># curl -vI https://itoncek.space</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://itoncek.space
-<b>X-Performance</b>: 75%
+<b>X-Performance</b>: 65%
 <b>X-Accessibility</b>: 92%
 <b>X-Best-Practices</b>: 91%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 3.352s (ok +)
-<b>&gt; Speed Index</b>: 0.687s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.046s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.242s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.242s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 4.964201968121591 (bad)
+<b>&gt; Time to interactive</b>: 3.834s (ok)
+<b>&gt; Speed Index</b>: 0.767s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.064s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.256s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.256s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 5.376644385342791 (bad)
 </div>
 
 
-<footer>Connection reset by 2.250.143.163</footer></pre>
+<footer>Connection reset by 201.253.56.113</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
