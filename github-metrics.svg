@@ -37,14 +37,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 26 Nov 2023, 02:19:55
+Last generated: 27 Nov 2023, 02:16:24
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=4y, uid=4277, gid=9
-  contributed to 45 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 45 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>3</b> users
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1681</b> commits
+  <b> 1682</b> commits
   <b>    3</b> pull requests reviewed
   <b>   20</b> pull requests opened
   <b>    9</b> issues opened
@@ -60,31 +60,31 @@ Last generated: 26 Nov 2023, 02:19:55
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
 </div>
-<div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [#########           ] 40.05%
-<b>HTML        </b> [####                ] 19.89%
-<b>CSS         </b> [###                 ] 14.49%
-<b>JAVA        </b> [###                 ] 10.30%
-<b>PYTHON      </b> [##                  ] 6.96 %
-<b>MCFUNCTION  </b> [#                   ] 4.83 %
-<b>SHADERLAB   </b> [#                   ] 2.14 %
+<div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [########            ] 39.88%
+<b>HTML        </b> [####                ] 19.81%
+<b>CSS         </b> [###                 ] 14.43%
+<b>JAVA        </b> [###                 ] 10.67%
+<b>PYTHON      </b> [##                  ] 6.94 %
+<b>MCFUNCTION  </b> [#                   ] 4.81 %
+<b>SHADERLAB   </b> [#                   ] 2.13 %
 <b>C#          </b> [#                   ] 1.33 %
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># curl -vI https://itoncek.space</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://itoncek.space
-<b>X-Performance</b>: 73%
+<b>X-Performance</b>: 74%
 <b>X-Accessibility</b>: 92%
 <b>X-Best-Practices</b>: 91%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 2.998s (ok +)
-<b>&gt; Speed Index</b>: 0.964s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.022s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.332s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.332s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 6.32166740507253 (bad)
+<b>&gt; Time to interactive</b>: 2.978s (ok +)
+<b>&gt; Speed Index</b>: 0.778s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.026s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.334s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.334s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 5.489866000532649 (bad)
 </div>
 
 
-<footer>Connection reset by 92.7.228.197</footer></pre>
+<footer>Connection reset by 235.46.133.112</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
