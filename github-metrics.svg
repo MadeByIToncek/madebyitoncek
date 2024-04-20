@@ -37,10 +37,10 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 19 Apr 2024, 03:14:05
+Last generated: 20 Apr 2024, 03:13:22
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Made By IToncek</b> registered=5y, uid=4277, gid=9
-  contributed to 49 repositories <b><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 49 repositories <b><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>3</b> users
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
@@ -75,16 +75,16 @@ Last generated: 19 Apr 2024, 03:14:05
 <b>X-Accessibility</b>: 92%
 <b>X-Best-Practices</b>: 56%
 <b>X-SEO</b>: 90%
-<b>&gt; Time to interactive</b>: 3.091s (ok +)
-<b>&gt; Speed Index</b>: 0.98s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.055s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.355s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.355s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 6.396244042881537 (bad)
+<b>&gt; Time to interactive</b>: 5.124s (ok)
+<b>&gt; Speed Index</b>: 2.661s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.029s (ok +)
+<b>&gt; First Contentful Paint</b>: 1.907s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 1.907s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 5.285149213072414 (bad)
 </div>
 
 
-<footer>Connection reset by 72.150.79.155</footer></pre>
+<footer>Connection reset by 61.246.140.133</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
