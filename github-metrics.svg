@@ -37,10 +37,10 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 21 Sept 2024, 03:36:56
+Last generated: 22 Sept 2024, 03:46:19
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>MadeByIToncek</b> registered=5y, uid=4277, gid=9
-  contributed to 44 repositories <b><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 44 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>4</b> users
 </div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
@@ -60,23 +60,31 @@ Last generated: 21 Sept 2024, 03:36:56
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
 </div>
-<div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
+<div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>HTML        </b> [##########          ] 49.80%
+<b>JAVASCRIPT  </b> [#####               ] 23.22%
+<b>CSS         </b> [##                  ] 8.18 %
+<b>JAVA        </b> [##                  ] 8.10 %
+<b>PYTHON      </b> [#                   ] 3.92 %
+<b>C#          </b> [#                   ] 2.86 %
+<b>MCFUNCTION  </b> [#                   ] 2.72 %
+<b>SHADERLAB   </b> [#                   ] 1.20 %
+</div>
 <div class="stdin"><span class="ps1-path">madebyitoncek@metrics</span>:<span class="ps1-location">~</span># curl -vI https://itoncek.space</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://itoncek.space
 <b>X-Performance</b>: 100%
-<b>X-Accessibility</b>: 96%
+<b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 96%
 <b>X-SEO</b>: 100%
-<b>&gt; Time to interactive</b>: 0.428s (ok +)
-<b>&gt; Speed Index</b>: 0.448s (ok +)
+<b>&gt; Time to interactive</b>: 0.453s (ok +)
+<b>&gt; Speed Index</b>: 0.455s (ok +)
 <b>&gt; Total Blocking Time</b>: 0s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.218s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.428s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.215s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.453s (ok +)
 <b>&gt; Cumulative Layout Shift</b>: 0 (ok +)
 </div>
 
 
-<footer>Connection reset by 3.190.147.247</footer></pre>
+<footer>Connection reset by 29.154.206.170</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
